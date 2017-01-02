@@ -40,7 +40,11 @@
 #include <linux/configfs.h>
 #include <linux/usb/composite.h>
 
+<<<<<<< HEAD
 #include <../configfs.h>
+=======
+#include "configfs.h"
+>>>>>>> cffc996... Merge tag 'LA.UM.5.1-03810-8x37.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima into cm-13.0
 
 #define MTP_RX_BUFFER_INIT_SIZE    1048576
 #define MTP_BULK_BUFFER_SIZE       16384

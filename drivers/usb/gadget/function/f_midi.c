@@ -32,7 +32,11 @@
 #include <linux/usb/audio.h>
 #include <linux/usb/midi.h>
 
+<<<<<<< HEAD
 #include <../u_f.h>
+=======
+#include "u_f.h"
+>>>>>>> cffc996... Merge tag 'LA.UM.5.1-03810-8x37.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima into cm-13.0
 
 MODULE_AUTHOR("Ben Williamson");
 MODULE_LICENSE("GPL v2");

@@ -12,7 +12,10 @@
  */
 
 #define pr_fmt(fmt) "subsys-restart: %s(): " fmt, __func__
+<<<<<<< HEAD
 #define WT_SUBSYSTEM_REASTART_LEVEL "related"
+=======
+>>>>>>> cffc996... Merge tag 'LA.UM.5.1-03810-8x37.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima into cm-13.0
 
 #include <linux/kernel.h>
 #include <linux/module.h>

@@ -27,7 +27,11 @@
 #include "u_ether_configfs.h"
 #include "u_rndis.h"
 #include "rndis.h"
+<<<<<<< HEAD
 #include <../configfs.h>
+=======
+#include "configfs.h"
+>>>>>>> cffc996... Merge tag 'LA.UM.5.1-03810-8x37.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima into cm-13.0
 
 /*
  * This function is an RNDIS Ethernet port -- a Microsoft protocol that's
