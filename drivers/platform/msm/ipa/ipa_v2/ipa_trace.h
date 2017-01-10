@@ -131,9 +131,5 @@ TRACE_EVENT(
 
 /* This part must be outside protection */
 #undef TRACE_INCLUDE_PATH
-<<<<<<< HEAD
 #define TRACE_INCLUDE_PATH ../../drivers/platform/msm/ipa/ipa_v2
-=======
-#define TRACE_INCLUDE_PATH .
->>>>>>> cffc996... Merge tag 'LA.UM.5.1-03810-8x37.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima into cm-13.0
 #include <trace/define_trace.h>
